@@ -1,0 +1,10 @@
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\Entity\bin\Debug\netcoreapp3.1\Entity.deps.json
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\Entity\bin\Debug\netcoreapp3.1\Entity.dll
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\Entity\bin\Debug\netcoreapp3.1\Entity.pdb
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.AssemblyReference.cache
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\Entity\obj\Debug\netcoreapp3.1\Entity.GeneratedMSBuildEditorConfig.editorconfig
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfoInputs.cache
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfo.cs
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.CoreCompileInputs.cache
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\Entity\obj\Debug\netcoreapp3.1\Entity.dll
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\Entity\obj\Debug\netcoreapp3.1\Entity.pdb

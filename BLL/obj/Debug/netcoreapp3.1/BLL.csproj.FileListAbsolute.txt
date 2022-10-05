@@ -1,0 +1,15 @@
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\BLL\bin\Debug\netcoreapp3.1\Entity.dll
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\BLL\bin\Debug\netcoreapp3.1\Entity.pdb
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\BLL\obj\Debug\netcoreapp3.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+G:\PersonalProject\AgentBankingBranchSoftware\ISBAB\BLL\obj\Debug\netcoreapp3.1\BLL.pdb

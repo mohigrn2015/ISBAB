@@ -1,0 +1,72 @@
+﻿@model Entity.RequestEntity.RegistrationModel
+
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h4>Sign Up</h4>
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Register">
+            @*<div asp-validation-summary="ModelOnly" class="text-danger"></div>*@
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="employee_name" class="control-label"> Name</label>
+                        <input asp-for="employee_name" class="form-control" />
+                        <span asp-validation-for="employee_name" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="address" class="control-label">Address</label>
+                        <input asp-for="address" class="form-control" />
+                        <span asp-validation-for="address" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="nid" class="control-label">National ID</label>
+                        <input asp-for="nid" class="form-control" />
+                        <span asp-validation-for="nid" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="email" class="control-label">Email</label>
+                        <input asp-for="email" class="form-control" />
+                        <span asp-validation-for="email" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="contact_1" class="control-label">Contact No</label>
+                        <input asp-for="contact_1" class="form-control" />
+                        <span asp-validation-for="contact_1" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label asp-for="contact_persion" class="control-label">Contact Person</label>
+                        <input asp-for="contact_persion" class="form-control" />
+                        <span asp-validation-for="contact_persion" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="con_person_no" class="control-label">Contact Person No</label>
+                        <input asp-for="con_person_no" class="form-control" />
+                        <span asp-validation-for="con_person_no" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="userName" class="control-label">User Name</label>
+                        <input asp-for="userName" class="form-control" />
+                        <span asp-validation-for="userName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="password" class="control-label">Password</label>
+                        <input ttype="password" asp-for="password" class="form-control" />
+                        <span asp-validation-for="password" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Register" class="btn btn-primary" />
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
